@@ -14,3 +14,5 @@ mcDESPOT_simulation
 2. Set/choose the tissue types to plot in "Relaxation Values"
 3. Set/choose the acquisition parameters for SPGR and bSSFP
 4. Optionally choose a sampling preset based on previous publications or define your own
+
+![](example_gui.png)
